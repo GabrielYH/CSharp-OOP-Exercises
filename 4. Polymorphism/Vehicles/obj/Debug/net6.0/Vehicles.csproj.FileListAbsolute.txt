@@ -1,0 +1,15 @@
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\Bratkoti\source\repos\Ex Polymorphism\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
