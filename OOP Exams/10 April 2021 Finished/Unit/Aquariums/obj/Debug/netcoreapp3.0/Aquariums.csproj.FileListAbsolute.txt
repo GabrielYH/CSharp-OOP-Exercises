@@ -1,0 +1,14 @@
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Bratkoti\Downloads\10 April 2021\Unit\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

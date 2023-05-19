@@ -1,0 +1,13 @@
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\Bratkoti\Downloads\18 April 2022\Unit\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache

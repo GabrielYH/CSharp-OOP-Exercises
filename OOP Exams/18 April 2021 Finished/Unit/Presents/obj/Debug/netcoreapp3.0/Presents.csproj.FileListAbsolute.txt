@@ -1,0 +1,14 @@
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\Bratkoti\Downloads\18 April 2021\Unit\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

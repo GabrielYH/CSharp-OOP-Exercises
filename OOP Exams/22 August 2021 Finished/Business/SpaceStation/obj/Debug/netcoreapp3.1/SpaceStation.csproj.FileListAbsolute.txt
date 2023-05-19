@@ -1,0 +1,14 @@
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\Bratkoti\Downloads\22 August 2021\Business\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

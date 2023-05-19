@@ -1,0 +1,28 @@
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
+C:\Users\Bratkoti\Downloads\15 August 2021\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\Bratkoti\Downloads\15 August 2021 Finished\Business\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

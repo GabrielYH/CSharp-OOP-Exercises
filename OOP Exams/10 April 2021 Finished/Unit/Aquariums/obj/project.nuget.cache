@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRsq2/nmfinayUn0mOM51qHEv113QSLrKCGObMmGhyiPF3usTKeUOg1P8dyyVNGcLHAcupZTnnatJgQO9cScdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bratkoti\\Downloads\\10 April 2021\\Unit\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bratkoti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Bratkoti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Bratkoti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Bratkoti\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

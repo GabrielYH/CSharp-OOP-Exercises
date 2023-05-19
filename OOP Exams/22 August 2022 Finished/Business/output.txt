@@ -1,0 +1,22 @@
+5 stars hotel Saint George is registered in our platform and expects room availability to be uploaded.
+3 stars hotel Sunari Beach is registered in our platform and expects room availability to be uploaded.
+4 stars hotel Alpine Slopes is registered in our platform and expects room availability to be uploaded.
+Successfully added Apartment room type in Saint George hotel!
+Successfully added Studio room type in Alpine Slopes hotel!
+Successfully added DoubleBed room type in Sunari Beach hotel!
+Successfully added Studio room type in Sunari Beach hotel!
+Price of Apartment room type in Saint George hotel is set!
+Price of DoubleBed room type in Sunari Beach hotel is set!
+Price of Studio room type in Alpine Slopes hotel is set!
+3 stars hotel Phoenix is registered in our platform and expects room availability to be uploaded.
+Successfully added Studio room type in Phoenix hotel!
+Booking number 1 for Sunari Beach hotel is successful!
+Hotel name: Sunari Beach
+--3 star hotel
+--Turnover: 99.00 $
+--Bookings:
+
+Booking number: 1
+Room type: DoubleBed
+Adults: 2 Children: 0
+Total amount paid: 99.00 $

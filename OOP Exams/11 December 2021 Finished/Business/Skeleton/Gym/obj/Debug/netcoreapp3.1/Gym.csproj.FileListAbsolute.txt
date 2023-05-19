@@ -1,0 +1,14 @@
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
+C:\Users\Bratkoti\Downloads\11 December 2021\Business\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache

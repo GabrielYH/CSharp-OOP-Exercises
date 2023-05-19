@@ -1,0 +1,13 @@
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\Bratkoti\Downloads\14 August 2022\Unit\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache

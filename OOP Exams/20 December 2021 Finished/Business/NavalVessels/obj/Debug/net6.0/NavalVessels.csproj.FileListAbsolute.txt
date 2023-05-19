@@ -1,0 +1,15 @@
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\bin\Debug\net6.0\NavalVessels.exe
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\bin\Debug\net6.0\NavalVessels.deps.json
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\bin\Debug\net6.0\NavalVessels.runtimeconfig.json
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\bin\Debug\net6.0\NavalVessels.dll
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\bin\Debug\net6.0\NavalVessels.pdb
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.AssemblyReference.cache
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfo.cs
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.dll
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\refint\NavalVessels.dll
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.pdb
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\NavalVessels.genruntimeconfig.cache
+C:\Users\Bratkoti\Downloads\20 December 2021\Business\NavalVessels\obj\Debug\net6.0\ref\NavalVessels.dll
